@@ -1,0 +1,1 @@
+Si todo sale bien, ahora deberia tirar los 3 git y este texto deberia poder leerse desde mi pagina de Github.
