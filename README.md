@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-primer repo armado
+Este proyecto es una prueba de com crear nu repo y clonarlo desde mi pc
+Aguante River
